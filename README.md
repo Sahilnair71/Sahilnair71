@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Sanjay Nair</h1>
-<h3 align="center">Software Developer | DevOps Enthusiast | Computer Science Graduate</h3>
-
+<h3 align="center">Software Developer | DevOps Engineer | Computer Science Graduate | Cloud Enthusiast</h3>
 <p align="center">
-  <a href="https://github.com/Sahilnair71" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://sahilnair71.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahilnair71&label=Profile%20views&color=0e75b6&style=flat" alt="Sahilnair71" />
+  <img src="https://komarev.com/ghpvc/?username=Sahilnair71&label=Portfolio%20views&color=0e75b6&style=flat" alt="Sahilnair71" />
 </p>
 
 ---
@@ -24,12 +23,12 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-nair-9a27131b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sahilnair71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/sahil-nair-9a27131b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sahilnair71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -48,7 +47,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" alt="GitHub Actions" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
 </p>
